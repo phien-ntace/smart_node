@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #---------------------------------------------------------------------
 # mqtt_client.py
-# Read value of dht11 sensor
+# Use MQTT
 #
 # Author : Phien Nguyen (Mark)
 # Date   : 21 June 2025
