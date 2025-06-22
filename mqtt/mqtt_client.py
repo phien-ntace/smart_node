@@ -65,7 +65,6 @@ def on_message(client, userdata, msg):
     print(msg.topic + " " + str(msg.qos) + " " + str(msg.payload))
 
 if __name__ == "__main__":
-    print("THIS APPLICATION USE TO GET ENVIROMENT AND SEND TO SERVER")
     # Define MQTT information
     mqtt_user = "smartnode"
     mqtt_password = "smartnode"
